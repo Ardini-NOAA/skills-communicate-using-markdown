@@ -17,7 +17,8 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 
 
 
-
+- [x] Commit Pull Request
+- [ ] Complete Week2 Course
 
 
 
